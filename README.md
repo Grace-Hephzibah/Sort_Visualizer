@@ -1,4 +1,4 @@
-# Sort_Vizualizer
+# Sort_Visualizer
 LDH Build 2022 : Day 5 - Write a script to sort a list
 
 # Learning Experience 
